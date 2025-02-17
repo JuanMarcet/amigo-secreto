@@ -33,3 +33,16 @@ document.getElementById('amigo').addEventListener('keydown', function (event ){
     }
 });
 
+function sortearAmigo(){
+    // comprobar que el array tenga dos o mas personas para jugar
+    if (arrJugadores.length <= 1){
+        alert(`lo siento, ${arrJugadores.length} ${arrJugadores.length==0? 'personas' :'persona' } no es suficiente para realizar un sorteo \n ¡Agrega mas amigos para que sea mas divertido!`);
+    } else {
+        alert(`A continuación se va a proceder a sortear los amigos secretos`);
+        arrJugadores.forEach(function (elemento, indice, array) {
+            console.log(elemento, indice);
+        });
+        alert('el amigo secreto de ')
+    }
+}
+
