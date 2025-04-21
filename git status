@@ -1,0 +1,35 @@
+[33mcommit e2a8af2802ebfd385b29fc76870c5ec8e3919e89[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Juan Marcet <juanmarcet06@gmail.com>
+Date:   Mon Feb 17 13:59:05 2025 -0500
+
+    Juego finalizado
+
+[33mcommit 05dd30b85897b13cd869ffed3d6f590ab3363eee[m
+Author: Juan Marcet <juanmarcet06@gmail.com>
+Date:   Sun Feb 16 20:44:31 2025 -0500
+
+    agregar funcion sorteraAmigo
+
+[33mcommit fbba47ed5047be183d2cf65c596dea1dd0df568f[m
+Author: Juan Marcet <juanmarcet06@gmail.com>
+Date:   Sun Feb 16 19:47:29 2025 -0500
+
+    evitar nombre repetido
+
+[33mcommit 39634c02b6ce22d7668ea1f1ea059c389be594b8[m
+Author: JuanMarcet <juanmarcet06@gmail.com>
+Date:   Sun Feb 16 14:17:01 2025 -0500
+
+    Update README.md
+
+[33mcommit 16963314a316a5a3b73787636c0ffd3ceacf25f4[m
+Author: JuanMarcet <juanmarcet06@gmail.com>
+Date:   Sun Feb 16 14:16:43 2025 -0500
+
+    Create README.md
+
+[33mcommit 69a39a36c272275279e7351b57b7d3a7cd47bdc5[m
+Author: Juan Marcet <juanmarcet06@gmail.com>
+Date:   Sun Feb 16 13:00:12 2025 -0500
+
+    creacion y funcion agregar amigo
